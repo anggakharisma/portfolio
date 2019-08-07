@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "scripts": {
+    "buildit": "parcel build index.html --no-source-maps",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
