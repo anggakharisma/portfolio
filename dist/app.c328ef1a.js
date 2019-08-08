@@ -152,7 +152,7 @@ var data = [{
   picture: _menswear.default,
   isSample: true,
   codeLink: "",
-  liveLink: ""
+  liveLink: "https://anggakharisma.github.io/menswear-front/"
 }, {
   title: "GOOPAN - Web Design",
   desc: "HTML, CSS, Javascript",
@@ -201,7 +201,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57571" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51668" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

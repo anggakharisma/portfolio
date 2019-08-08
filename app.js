@@ -20,7 +20,7 @@ const data = [
         picture: menswear,
         isSample: true,
         codeLink: "",
-        liveLink: ""
+        liveLink: "https://anggakharisma.github.io/menswear-front/"
     },
     {
         title: "GOOPAN - Web Design",
