@@ -19,7 +19,7 @@ const data = [
         desc: "Vue, Express, MongoDB",
         picture: menswear,
         isSample: true,
-        codeLink: "",
+        codeLink: "https://github.com/anggakharisma/menswear-front",
         liveLink: "https://anggakharisma.github.io/menswear-front/"
     },
     {
@@ -28,7 +28,7 @@ const data = [
         picture: goopan,
         isSample: true,
         codeLink: "",
-        liveLink: ""
+        liveLink: "https://keen-nobel-02e821.netlify.com/"
 
     },
     {
