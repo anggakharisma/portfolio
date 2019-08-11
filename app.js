@@ -19,8 +19,8 @@ const data = [
         desc: "Vue, Express, MongoDB",
         picture: menswear,
         isSample: true,
-        codeLink: "https://github.com/anggakharisma/menswear-front",
-        liveLink: "https://github.com/anggakharisma/menswear"
+        codeLink: "https://github.com/anggakharisma/menswear",
+        liveLink: "https://anggakharisma.github.io/menswear/"
     },
     {
         title: "GOOPAN - Web Design",
